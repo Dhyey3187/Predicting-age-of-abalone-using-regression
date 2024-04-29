@@ -15,14 +15,6 @@ Your submissions will be evaluated using the **Root Mean Squared Logarithmic Err
 <div align='center' >
     <img src='./RSME.png' height='100rem' width='350'>
 </div>
-## **My Score** 📊
-
-Ranked 115 out of 2600 with a score of 0.14467
-
-<div align='center' >
-    <img src='./Score.png' height='150rem' width='750'>
-</div>
-
 
 ## Dataset 📦
 
@@ -65,6 +57,14 @@ The dataset for this competition includes various physical measurements of abalo
 - **test.csv**: Test dataset for which you need to predict the abalone ages.
 - **sample_submission.csv**: A sample submission file demonstrating the correct format for predictions.
 
+
+## **My Score** 
+
+Ranked 115 out of 2600 with a score of 0.14467
+
+<div align='center' >
+    <img src='./Score.png' height='150rem' width='750'>
+</div>
 
 
 ### 🐚✨ **Author**:-
