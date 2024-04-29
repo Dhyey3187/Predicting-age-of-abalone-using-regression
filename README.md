@@ -15,6 +15,14 @@ Your submissions will be evaluated using the **Root Mean Squared Logarithmic Err
 <div align='center' >
     <img src='./RSME.png' height='100rem' width='350'>
 </div>
+## **My Score** 📊
+
+Ranked 115 out of 2600 with a score of 0.14467
+
+<div align='center' >
+    <img src='./Score.png' height='100rem' width='350'>
+</div>
+
 
 ## Dataset 📦
 
