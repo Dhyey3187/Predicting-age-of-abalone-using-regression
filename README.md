@@ -20,7 +20,7 @@ Your submissions will be evaluated using the **Root Mean Squared Logarithmic Err
 Ranked 115 out of 2600 with a score of 0.14467
 
 <div align='center' >
-    <img src='./Score.png' height='100rem' width='350'>
+    <img src='./Score.png' height='150rem' width='550'>
 </div>
 
 
