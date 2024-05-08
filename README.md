@@ -62,9 +62,6 @@ The dataset for this competition includes various physical measurements of abalo
 
 Ranked 115 out of 2600 with a score of 0.14467
 
-<div align='center' >
-    <img src='./Score.png' height='150rem' width='750'>
-</div>
 
 
 ### 🐚✨ **Author**:-
